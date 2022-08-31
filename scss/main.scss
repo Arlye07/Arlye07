@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+//variables arriba de todo siempre
+@import './variables/colores';
+@import './variables/typo';
+@import './variables/tamanios';
+
+@import './secciones/header';
+@import './secciones/div'
